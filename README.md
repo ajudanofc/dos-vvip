@@ -35,7 +35,7 @@ The tool supports parallel requests, randomized headers, and real-time monitorin
 ```bash
 pkg update && pkg upgrade
 pkg install nodejs git -y
-git clone https://github.com/ajudan778/dos-vvip.git
+git clone https://github.com/ajudanofc/dos-vvip.git
 cd dos-vvip
 npm install
 npm start
@@ -44,7 +44,7 @@ npm start
 ```bash
 sudo apt update
 sudo apt install nodejs npm git -y
-git clone https://github.com/ajudan778/dos-vvip.git
+git clone https://github.com/ajudanofc/dos-vvip.git
 cd dos-vvip
 npm install
 npm start
